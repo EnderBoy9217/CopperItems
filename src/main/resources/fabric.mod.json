@@ -1,14 +1,14 @@
 {
 	"schemaVersion": 1,
-	"id": "enders-emeralditems",
+	"id": "enders-copperitems",
 	"version": "${version}",
 	"name": "EnderBoy9217's Copper Items",
-	"description": "Adds emerald tools, armor, and horse armor to Minecraft! Also adds them to certain vanilla chests.",
+	"description": "Adds copper tools, armor, and horse armor to Minecraft! Copper Horse Armor can also be found in chests!",
 	"authors": [
 		"EnderBoy9217"
 	],
 	"contact": {
-		"sources": "https://github.com/EnderBoy9217/Enders-EmeraldItems",
+		"sources": "https://github.com/EnderBoy9217/CopperItems",
 		"discord": "https://discord.gg/V3PYqq9UvD"
 	},
 	"license": "GPL-3.0",

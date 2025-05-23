@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "enders-copperitems:item/copper_horse_armor"
-  }
-}
