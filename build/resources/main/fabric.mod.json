@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "enders-emeralditems",
+	"version": "1.0.0",
+	"name": "EnderBoy9217's Copper Items",
+	"description": "Adds emerald tools, armor, and horse armor to Minecraft! Also adds them to certain vanilla chests.",
+	"authors": [
+		"EnderBoy9217"
+	],
+	"contact": {
+		"sources": "https://github.com/EnderBoy9217/Enders-EmeraldItems",
+		"discord": "https://discord.gg/V3PYqq9UvD"
+	},
+	"license": "GPL-3.0",
+	"icon": "assets/enders-copperitems/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "com.enderboy9217.copperitems.EndersCopperItems"
+		],
+		"fabric-datagen": [
+			"com.enderboy9217.copperitems.EndersCopperItemsDataGenerator"
+		]
+	},
+	"mixins": [
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
