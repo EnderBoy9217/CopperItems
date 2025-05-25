@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:copper_sword"
+        "recipe": "enders-copperitems:recipes/combat/copper_boots"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -28,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecraft:copper_sword"
+      "enders-copperitems:recipes/combat/copper_boots"
     ]
   },
   "sends_telemetry_event": false

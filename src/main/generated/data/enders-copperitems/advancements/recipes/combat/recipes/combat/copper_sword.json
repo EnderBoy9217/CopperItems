@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:copper_pickaxe"
+        "recipe": "enders-copperitems:recipes/combat/copper_sword"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -28,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecraft:copper_pickaxe"
+      "enders-copperitems:recipes/combat/copper_sword"
     ]
   },
   "sends_telemetry_event": false

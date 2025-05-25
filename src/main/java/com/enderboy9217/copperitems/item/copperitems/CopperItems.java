@@ -36,7 +36,7 @@ public class CopperItems {
 
     // Horse Armor
     public static final Item COPPER_HORSE_ARMOR = registerItem("copper_horse_armor",
-        new HorseArmorItem(4, "copper", new FabricItemSettings()));
+        new HorseArmorItem(4, "copper", new FabricItemSettings().maxCount(1)));
 
     private static void addItemsToCombatItemGroup(FabricItemGroupEntries entries)
     {

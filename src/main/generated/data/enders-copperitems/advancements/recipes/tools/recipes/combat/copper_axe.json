@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:copper_hoe"
+        "recipe": "enders-copperitems:recipes/combat/copper_axe"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -28,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecraft:copper_hoe"
+      "enders-copperitems:recipes/combat/copper_axe"
     ]
   },
   "sends_telemetry_event": false
