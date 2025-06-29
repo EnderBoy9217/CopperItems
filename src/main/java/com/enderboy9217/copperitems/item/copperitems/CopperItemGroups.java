@@ -14,7 +14,7 @@ public class CopperItemGroups {
     public static final ItemGroup copperItems = Registry.register(Registries.ITEM_GROUP,
             new Identifier(EndersCopperItems.MOD_ID, "copperitems"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.copperitems"))
-                    .icon(() -> new ItemStack(CopperItems.COPPER_SWORD)).entries((displayContext, entries) -> {
+                    .icon(() -> new ItemStack(CopperItems.COPPER_AXE)).entries((displayContext, entries) -> {
                         entries.add(CopperItems.COPPER_HORSE_ARMOR);
                         entries.add(CopperItems.COPPER_SWORD);
                         entries.add(CopperItems.COPPER_PICKAXE);
