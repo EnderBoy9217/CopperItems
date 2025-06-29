@@ -1,0 +1,8 @@
+{
+  "type": "enders-copperitems:copper_axe",
+  "group": "altar_axe_repair",
+  "ingredient": {
+    "item": "enders-copperitems:copper_axe"
+  },
+  "repairTime": 750
+}

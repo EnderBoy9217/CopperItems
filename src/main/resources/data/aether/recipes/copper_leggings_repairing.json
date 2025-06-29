@@ -1,0 +1,8 @@
+{
+  "type": "enders-copperitems:copper_leggings",
+  "group": "altar_leggings_repair",
+  "ingredient": {
+    "item": "enders-copperitems:copper_leggings"
+  },
+  "repairTime": 750
+}

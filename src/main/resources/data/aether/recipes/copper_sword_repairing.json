@@ -1,0 +1,8 @@
+{
+  "type": "enders-copperitems:copper_sword",
+  "group": "altar_sword_repair",
+  "ingredient": {
+    "item": "enders-copperitems:copper_sword"
+  },
+  "repairTime": 750
+}

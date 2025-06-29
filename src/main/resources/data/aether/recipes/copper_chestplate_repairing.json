@@ -1,0 +1,8 @@
+{
+  "type": "enders-copperitems:copper_chestplate",
+  "group": "altar_chestplate_repair",
+  "ingredient": {
+    "item": "enders-copperitems:copper_chestplate"
+  },
+  "repairTime": 750
+}

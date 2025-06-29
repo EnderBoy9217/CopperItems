@@ -1,0 +1,8 @@
+{
+  "type": "enders-copperitems:copper_pickaxe",
+  "group": "altar_pickaxe_repair",
+  "ingredient": {
+    "item": "enders-copperitems:copper_pickaxe"
+  },
+  "repairTime": 750
+}

@@ -1,0 +1,8 @@
+{
+  "type": "enders-copperitems:copper_helmet",
+  "group": "altar_helmet_repair",
+  "ingredient": {
+    "item": "enders-copperitems:copper_helmet"
+  },
+  "repairTime": 750
+}

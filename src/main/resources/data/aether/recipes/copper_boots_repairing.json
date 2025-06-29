@@ -1,0 +1,8 @@
+{
+  "type": "enders-copperitems:copper_boots",
+  "group": "altar_boots_repair",
+  "ingredient": {
+    "item": "enders-copperitems:copper_boots"
+  },
+  "repairTime": 750
+}

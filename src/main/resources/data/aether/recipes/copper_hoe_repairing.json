@@ -1,0 +1,8 @@
+{
+  "type": "enders-copperitems:copper_hoe",
+  "group": "altar_hoe_repair",
+  "ingredient": {
+    "item": "enders-copperitems:copper_hoe"
+  },
+  "repairTime": 750
+}

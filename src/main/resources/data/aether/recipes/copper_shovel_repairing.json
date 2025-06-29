@@ -1,0 +1,8 @@
+{
+  "type": "enders-copperitems:copper_shovel",
+  "group": "altar_shovel_repair",
+  "ingredient": {
+    "item": "enders-copperitems:copper_shovel"
+  },
+  "repairTime": 750
+}
