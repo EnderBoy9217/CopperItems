@@ -20,5 +20,15 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
                     CopperItems.COPPER_CHESTPLATE,
                     CopperItems.COPPER_LEGGINGS,
                     CopperItems.COPPER_BOOTS);
+        getOrCreateTagBuilder(ItemTags.SWORDS)
+                .add(CopperItems.COPPER_SWORD);
+        getOrCreateTagBuilder(ItemTags.PICKAXES)
+                .add(CopperItems.COPPER_PICKAXE);
+        getOrCreateTagBuilder(ItemTags.AXES)
+                .add(CopperItems.COPPER_AXE);
+        getOrCreateTagBuilder(ItemTags.SHOVELS)
+                .add(CopperItems.COPPER_SHOVEL);
+        getOrCreateTagBuilder(ItemTags.HOES)
+                .add(CopperItems.COPPER_HOE);
     }
 }

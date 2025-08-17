@@ -1,2 +1,7 @@
-// 1.20.1	2025-05-25T16:34:43.682349	EnderBoy9217's Copper Items/Tags for minecraft:item
-8bfe933bc207569404ce7b861de4db983a1d2012 data/minecraft/tags/items/trimmable_armor.json
+// 1.20.1	2025-08-17T12:20:41.532649	EnderBoy9217's Copper Items/Tags for minecraft:item
+5d975c651a0e243896ee4a3876f17beeceaf8763 data\minecraft\tags\items\axes.json
+097d4cdd958b58069f42efa018de6425afaec260 data\minecraft\tags\items\hoes.json
+9809ca112b959ac6cc353b370528f254ba779762 data\minecraft\tags\items\swords.json
+207f3ec0243859c7fe3911d61a95c56696f5ee51 data\minecraft\tags\items\pickaxes.json
+c0eb39360f174c9ac162e2194f96b6be8a361bac data\minecraft\tags\items\shovels.json
+8bfe933bc207569404ce7b861de4db983a1d2012 data\minecraft\tags\items\trimmable_armor.json
